@@ -1,0 +1,443 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Daniel in the den, or, The lord president's imprisonment, and miraculous deliverance represented in a discourse from Heb. XI V. 33 / by S. J., rector of Chinner ...</title>
+            <author>Jay, Stephen, d. 1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46691</idno>
+            <idno type="STC">Wing J497</idno>
+            <idno type="STC">ESTC R16865</idno>
+            <idno type="EEBO-CITATION">11931138</idno>
+            <idno type="OCLC">ocm 11931138</idno>
+            <idno type="VID">51125</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46691)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51125)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 816:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Daniel in the den, or, The lord president's imprisonment, and miraculous deliverance represented in a discourse from Heb. XI V. 33 / by S. J., rector of Chinner ...</title>
+                  <author>Jay, Stephen, d. 1689.</author>
+               </titleStmt>
+               <extent>[6], 33 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.A. for John Dunton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theoloical Seminary Library.</note>
+                  <note>Attributed to Stephen Jay. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Daniel VI --  Sermons.</term>
+               <term>Bible. --  O.T. --  Hebrews, XI, 33 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51125:1"/>
+            <pb facs="tcp:51125:1" rendition="simple:additions"/>
+            <p>DANIEL IN THE DEN: OR, THE LORD PRESIDENT'S Impriſonment, AND MIRACULOUS DELIVERANCE. REPRESENTED In a DISCOURSE from <hi>HEB.</hi> XI. <hi>v.</hi> 33.</p>
+            <p>By <hi>S. J.</hi> Rector of <hi>Chinner</hi> in the County of <hi>Oxon.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>DAN. 6.23.</hi>
+               </bibl>
+               <p>Innocency was found in me, and alſo before thee, O King, have I done no hurt.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. A.</hi> for <hi>John Dunton,</hi> at the Sign of the <hi>Black Raven</hi> in the <hi>Poultrey,</hi> 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:51125:2"/>
+            <pb facs="tcp:51125:2" rendition="simple:additions"/>
+            <head>TO THE RIGHT HONOURABLE ANTHONY EARL of <hi>SHAFTSB<g ref="char:V">Ʋ</g>RY,</hi> Late Lord PRESIDENT of his Majeſties moſt Honourable Privy Council.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>HOly Writ acquaints us with many curſed Conſpiracies againſt the <hi>Innocent</hi> and the <hi>Good.</hi> But I find none more ſottiſh and cruel, than that we read of, <hi>John 12.</hi> v. <hi>10.11. Where the High-priſts con<g ref="char:EOLhyphen"/>ſult to put</hi> (not <hi>Jeſus</hi> only, but) Lazarus <hi>alſo to Death; becauſe by reaſon of him many of the</hi> Jews <hi>believed on</hi> Jeſus. <hi>Lazarus</hi> wasguilty of no Crime, but becauſe <hi>[he was.]</hi> It ſeems his
+<pb facs="tcp:51125:3"/>very <hi>Being</hi> and <hi>Life</hi> was fault enough, which though redeem'd by a Miracle, muſt now be deſtroy<g ref="char:EOLhyphen"/>ed by Malice: For his bare <hi>Preſence</hi> and <hi>Motion</hi> Drew Diſciples; his very <hi>Looks</hi> preached the Go<g ref="char:EOLhyphen"/>ſpel; he opened his <hi>Eyes</hi> and Taught. And while thus doing, he would never make an end of doing miſchief to them. Therefore they conſult to diſpatch him out of ſight, and to ſilence this <hi>Teacher,</hi> by muf<g ref="char:EOLhyphen"/>fling him up in a <hi>Napkin</hi> again, and laying him under a Stone.</p>
+            <p>It is certain <hi>(My Lord)</hi> that every Turn of your Head, Glance of your Eye, Motion of your Hand, Step of your Foot is a vexation and a Plague to your Enemies the <hi>Papiſts,</hi> who believe your very <hi>Shadow</hi> ſo fatal to all their Contri<g ref="char:EOLhyphen"/>vances and Aims, that whilſt <hi>You</hi> live, they <hi>Shrivel</hi> and <hi>Wither.</hi> Your <hi>Breath</hi> ſtrikes con<g ref="char:EOLhyphen"/>fuſion to all their Plots, and therefore no wonder they have variouſly conſulted your Death, as well as your Great <hi>Maſters: Lazarus</hi> muſt dye too.</p>
+            <p>But then to promote it by projecting a Deſign of
+<pb facs="tcp:51125:3" rendition="simple:additions"/>ſetting <hi>Jeſus</hi> againſt <hi>Lazarus,</hi> and impoſing a be<g ref="char:EOLhyphen"/>lief that He <hi>[Innocent He]</hi> ſhould conſpire the ruine of his Maſters Honour and Kingdom, is a Plot like to proſper into the ſame Glory of the Proje<g ref="char:EOLhyphen"/>ctors, as this your Lordſhip will hear of in the fol<g ref="char:EOLhyphen"/>lowing Diſcourſe. One would ſwear ſuch Men were <hi>Planet-ſtruck,</hi> their Counſels confounded from Heaven (as the <hi>Languages</hi> at <hi>Babel</hi>) and the <hi>Witneſſes</hi> ſtammering out an improbable E<g ref="char:EOLhyphen"/>vidence.</p>
+            <p>Praiſed be God, who hath fruſtrated (hitherto) all their Helliſh attempts both againſt your Sove<g ref="char:EOLhyphen"/>raign and Self. May his Majeſty live for ever, a ſure <hi>Defender of our Faith</hi> and Church: And may your Lordſhip live too, the Dread and Eye-ſore of the Enemies of its peace. And may You ne<g ref="char:EOLhyphen"/>ver be Imagin'd to be leſſened in the Affections of your Prince, nor in your own to the Intereſts of his Royal Perſon and Kingdom; but may Realize in your Devotion to Majeſty, thoſe Hyperbolical expreſſions of Allegiance and Duty wherewith <hi>Furre</hi> and
+<pb facs="tcp:51125:4"/>
+               <hi>Velvet,</hi> have even tired the Court all this Year. And let that idle imputation and reproach of a <hi>Re<g ref="char:EOLhyphen"/>publican</hi> Deſign be equally the Subject of your Diverſion and ſcorn. When all wiſe Men know you too Prudent and Politick to endeavour the un<g ref="char:EOLhyphen"/>hinging thoſe firm Eſtabliſhments of Church and State, to whoſe fixation and Glory you lent ſo Great an hand, and (I doubt not) bear ſo true an Heart, however enviouſly the contrary be inſinuated by your Inveterate Enemies. And no wonder, when <hi>Jeſus</hi> himſelf (who dar'd the World and Devil to convince him of ſin againſt God) was yet In<g ref="char:EOLhyphen"/>dicted of Treaſon againſt <hi>Caeſar, (Joh. 19.22.)</hi> and bawl'd to death by the Exclamations of thoſe, whoſe Hypocritical pretences to Loyalty, ſerv'd only to mask very fitly the Face of their Cruelty. From which God ever defend your Lordſhip and all Good Men. I am (My Lord)</p>
+            <closer>
+               <signed>Your Lordſhips Moſt humble Servant, 
+<hi>S. J.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:51125:4" rendition="simple:additions"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>HEB. XI. 33.</hi>
+                  </bibl>
+                  <p>Who through Faith— ſtopped the Mouths of Lyons.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Chapter, (as a Cabinet enrich'd with Variety of coſtly Jewels) is all throughout Enamell'd with the Glo<g ref="char:EOLhyphen"/>ries of <hi>Faith.</hi> Some very Antique, even from the firſt World, the <hi>Luſtre</hi> of <hi>Abel, Enoch,</hi> and <hi>Noah</hi> ſhine here. The reſt not Modern, <hi>Abraham, Iſaac</hi> and <hi>Jacob, Mo<g ref="char:EOLhyphen"/>ſes, Samuel,</hi> and the Prophets (as Stars of the firſt Magnitude) dart down their ſeveral Rayes and In<g ref="char:EOLhyphen"/>fluences upon the Church in all Ages; and here altogether make up a glorious Conſtellation.</p>
+            <p>And thou <hi>Daniel</hi> the Prophet, <hi>art not the leaſt among all the Princes and Prophets of</hi> Judah, <hi>for out of thee</hi> proceeded this Eximious Faith (in the Text) <hi>That ſtopped the Mouths of Lyons,</hi> ſo as they could do thee no harm, <hi>becauſe Innocency was found in thee,</hi> &amp;c.</p>
+            <p>The Text being Hiſtorical will neceſſarily enforce me to give you a Curſory and Paraphraſtical account of this Prophets Story, and the ſeveral Remarques of his Life and Honours; but eſpecially of his Suf<g ref="char:EOLhyphen"/>ferings and Impriſonment, and the Faith that pro<g ref="char:EOLhyphen"/>cured
+<pb n="2" facs="tcp:51125:5"/>him the Miraculous Deliverance from the Lyons.</p>
+            <p>Pleaſe you therefore to take a Tranſient view of him, (as the Holy Ghoſt has dreſt him up, and diſ<g ref="char:EOLhyphen"/>play'd him before us, in his own Book:)</p>
+            <p n="1">1. In his <hi>Lineage</hi> and <hi>Deſcent;</hi>
+               <note n="1" place="margin">
+                  <hi>Daniel</hi>'s high Birth.</note> he is (if not of the Blood Royal) at leaſt of the <hi>Seed of the Princes,</hi> and Noble, <hi>Chap.</hi> 1.3. And the Great Soul that managed all his Actions with that Bravery and Cou<g ref="char:EOLhyphen"/>rage, confirms the highneſs of his Extract; <hi>E forti<g ref="char:EOLhyphen"/>bus creantur fortes.</hi> Our <hi>Prophet</hi> was Born <hi>Honoura<g ref="char:EOLhyphen"/>ble,</hi> and the whole <hi>Series</hi> of his <hi>Life,</hi> was no whit de<g ref="char:EOLhyphen"/>rogatory from, but Ornamental to the Glory of his <hi>Birth.</hi>
+            </p>
+            <p n="2">2. In the <hi>Beauty</hi> of his <hi>Perſonage;</hi>
+               <note n="2" place="margin">Perfect Beauty.</note> the Gracefulneſs of his Body vying perfection with the Graces of his Mind, each ſtriving in him for Superiority; and both rendring him very amiable and lovely, <hi>Chap.</hi> 1.4.</p>
+            <p n="3">3. In his excellent <hi>Breeding</hi> and <hi>Education;</hi>
+               <note n="3" place="margin">Good Breeding.</note> He is a choiſe Spirit, cull'd out to be trained up and in<g ref="char:EOLhyphen"/>ſtructed by Royal Mandate, in all the Learning of the <hi>Chaldees,</hi> and taught the Myſteries and Policies of State, <hi>that he might ſtand before the King,</hi> verſe 5. And is therefore wrought up to be a poliſhed Pillar for the ſupport of the Government.</p>
+            <p n="4">4. In the admirable <hi>Abſtinence</hi> of his Youth;
+<note n="4" place="margin">Admirable Abſtinence.</note> he Re<g ref="char:EOLhyphen"/>ligiouſly declines from the Luxuries of the Court, and the Delicacies of the Kings Table, and abſtemiouſly ſatisfies himſelf with Pulſe and Water, <hi>v.</hi> 12. A Rare Example.</p>
+            <p n="5">5. In his <hi>Sublime Wiſdom</hi> and <hi>Knowledge;</hi>
+               <note n="5" place="margin">Sublime Wiſdom.</note> God alſo
+<pb n="3" facs="tcp:51125:5" rendition="simple:additions"/>overlaying his humane Acquiſitions with the Gold of Divine Grace, Sanctifying him into a knotty and puzling Prophet, <hi>hard to be underſtood;</hi> and giving him a particular Skill and Underſtanding in Unridling Dreams and <hi>Viſions of the Night,</hi> v. 17. And diſſolving hard Queſtions, <hi>Cap.</hi> 5.12. As alſo the <hi>Spirit of Go<g ref="char:EOLhyphen"/>vernment,</hi> and fitneſs for publick Affairs.</p>
+            <p n="6">6. In his <hi>Merited Promotion:</hi>
+               <note n="6" place="margin">Merited Promotion.</note> for his Wiſdom he is preferred and <hi>made a Great Man by the King:</hi> Lord Lieutenant over the whole Province of <hi>Babylon;</hi> to inſpect the Kings Treaſures, <hi>&amp;c. Cap.</hi> 2.48. And Chief Governour and Maſter of all the Magicians and Wiſe Men, <hi>cap.</hi> 2.28. &amp; 4.49.—And is fixed at Court, <hi>Cap.</hi> 2.49.</p>
+            <p n="7">7. In his <hi>exemplary Piety;</hi>
+               <note n="7" place="margin">Exemplary Piety.</note> for through the whole croud of thoſe diſtractions, his Offices and Honours involve him in, yet he paſſes to Heaven Thrice a day, and commands Cares to ſtand below, while himſelf climbs the <hi>Mount,</hi> and diſpatches Buſineſs with his God, <hi>cap.</hi> 6.10.</p>
+            <p n="8">8. In his <hi>Religious Care;</hi>
+               <note n="8" place="margin">Religious Care for good Mens Advance.</note> for being himſelf now promoted to Honour, he improves his whole Intereſt for the advancement of his Friends, (Men of the ſame excellent Spirit with himſelf) to a ſhare in the ad<g ref="char:EOLhyphen"/>miniſtration of the Government. An act of great Pie<g ref="char:EOLhyphen"/>ty to God, good Policy to the King, Great Favour to his Friends, and great Comfort to the Church in her Affliction and Exile. <hi>Daniel requeſted of the King, and he ſet</hi> Shadrach, Meſhech <hi>and</hi> Abednego <hi>over the Affairs of the Province of</hi> Babylon, <hi>Cap.</hi> 2.49.</p>
+            <p>Laſtly, In the <hi>good Effect</hi> of his <hi>Care;</hi>
+               <note place="margin">The good-Effect of that Care.</note> for theſe brave Men being now made publick Officers in the
+<pb n="4" facs="tcp:51125:6"/>State, and ſummon'd to obey the Idolatrous Decree of <hi>Nebuchadnezzar</hi> (to which all his Princes, Gover<g ref="char:EOLhyphen"/>nours and other Officers had rendred a ready and un<g ref="char:EOLhyphen"/>diſputed Obedience;) <hi>Theſe</hi> alone find a Faith and a Courage, ſingly to oppoſe themſelves, and dare give check to the yet uncontrolled Torrent of his impious Law and Command, owning the true God and profeſſing the fulneſs of a generous confidence in his Power, even to the very Face of the incenſed <hi>Mo<g ref="char:EOLhyphen"/>narch:</hi> Whoſe angry Commands therefore of aggra<g ref="char:EOLhyphen"/>vating their Torments in the Fire, did but ſtill in<g ref="char:EOLhyphen"/>creaſe the glorious Miracle of their Deliverance in and out of it, and at laſt produce a Decree of Honour to the God and Religion they confeſſed, and a greater Augmentation of Office and Power to themſelves, <hi>Cap.</hi> 3. So little do faithful Men diſad<g ref="char:EOLhyphen"/>vantage themſelves by a fixed adherence to the Truth and Principles they believe, and ſo greatly do they Honour their Profeſſion and their God; when in the Face of his Enemies and of Death it ſelf, they dare own him with conſtancy and courage. And what aſſurance do ſuch Men give to their <hi>Prince</hi> of all ima<g ref="char:EOLhyphen"/>ginable Truth and Fidelity, in the Loyal diſcharge of their Duties, and faithful anſwering to all the Con<g ref="char:EOLhyphen"/>fidence and Truſt repoſed in them, with all ſecurity and peace?</p>
+            <p>What a ſervice then did <hi>Daniel</hi> to the Crown in lifting Men of ſuch Heroick temper into places of Authority and Power? How happy is that Prince whoſe Affairs are ſo ſecurely lodg'd in the mini<g ref="char:EOLhyphen"/>ſtration of thoſe who had rather die than betray their Soveraign by an ill Act; no not by an Eaſie
+<pb n="5" facs="tcp:51125:6" rendition="simple:additions"/>humouring him in his Sin; and ſooner reſign them<g ref="char:EOLhyphen"/>ſelves into the hazard of his utmoſt diſpleaſure, than to flatter him in Deſigns ſo diſhonourable to God, perni<g ref="char:EOLhyphen"/>cious to himſelf, and oppoſite to their Principles and Conſcience?</p>
+            <p>
+               <hi>Daniel</hi> thus richly clad with all the Graces of a <hi>good Prophet,</hi>
+               <note place="margin">Beloved of God, and <hi>Ne<g ref="char:EOLhyphen"/>chadnezzar.</hi>
+               </note> no wonder he is ſo oft proclaimed the <hi>Favourite</hi> of Heaven, <hi>A man greatly beloved of God, Cap.</hi> 9.29. &amp; 10. <hi>v.</hi> 11.19. So, being enriched with all the properties of a <hi>Prudent States-man,</hi> no won<g ref="char:EOLhyphen"/>der he is ſo greatly beloved of the King, as one re<g ref="char:EOLhyphen"/>pleniſhed with the <hi>Spirit of the Holy Gods,</hi> Chap. 4.8, 9. In the full luſtre of whoſe favour (we may be ſure) he continued ſhining through the whole <hi>Series</hi> of this <hi>Monarch</hi>'s Reign without Eclipſe.</p>
+            <p>
+               <hi>There are,
+<note place="margin">Love God then,</note> who can they but wrap themſelves in the warm embraces of Earthly Majeſty, very fanatically hold the Boſom of Divine Love but for a cold Lodging. 'Tis pity ſuch ſhould paſs from the Meridian of Royal favour into the obſcurities of Divine Vengeance; but they may. I will get as cloſe to my King as I can,</hi> but it is good for me to draw near to God too, <hi>leaſt my Prince die (as</hi> Daniel<hi>'s did) and leave me miſerable.</hi>
+            </p>
+            <p>Nor is Piety it ſelf a Protection, that can juſti<g ref="char:EOLhyphen"/>fie or ſecure me from the leaſt affront to <hi>Royalty,</hi>
+               <note place="margin">And the King too.</note> ſince if good Men muſt be loved as the Images of God's <hi>Holineſs,</hi> certainly good Princes, as the more Expreſs ones, both of his <hi>Holineſs</hi> and his <hi>Power.</hi>
+            </p>
+            <p>Now whether (upon his death) our Prophet retired from Court,
+<note place="margin">A Stranger at Court in <hi>Bel<g ref="char:EOLhyphen"/>ſhazzar</hi>'s Reign.</note> and betook himſelf to a pri<g ref="char:EOLhyphen"/>vate and more Sedate courſe of life, to attend the
+<pb n="6" facs="tcp:51125:7"/>immediate Service of his God: Or whether <hi>Bellſhaz<g ref="char:EOLhyphen"/>zar</hi> being a diſſolute Prince gave no encourage<g ref="char:EOLhyphen"/>ment to ſo good a Man to continue about him: Or whether He, (being but the Grandchild of <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar</hi> his Daughters Son) might be too young to hear of the Memorable paſſages of <hi>Daniel</hi>'s Wiſdom and Service in the Life of his Grandfather, and perhaps bred elſewhere at a diſtance from the Court: Or, whether times had worn off the Memory and Novelty of theſe Tranſactions: Or what elſe, I know not: But he ſeems a perfect Stranger (now) in the Palace: Till Letters by a <hi>ſtrange</hi> hand (with<g ref="char:EOLhyphen"/>out an Arm) occaſion his Summons to Court again. Where (it ſeems) <hi>Belſhazzar</hi> and his Lords were acting the Religion of the <hi>Quakers,</hi> but un<g ref="char:EOLhyphen"/>derſtand not their own Inſtitution (it puzled the whole Council of the <hi>Wiſe Men</hi> to underſtand it too) till the Q.
+<note place="margin">But ſent for in a fright. And promo<g ref="char:EOLhyphen"/>ted by him.</note> Mother thinks that One <hi>Daniel</hi> might, whom ſhe therefore recommends to the King: <hi>There is a Man in thy Kingdom, of an excellent Spirit and Knowledge,</hi> &amp;c. <hi>Let</hi> Daniel <hi>be call'd,</hi> Chap. 5.12. Who is therefore ſent for, and highly careſs'd with proffers of Dignity and Honour; which he (brave Man) as nobly ſlights (and knows that Princes in a Fright uſe not to bid low for their eaſe:) <hi>Let thy gifts be to thy ſelf, and give thy rewards to ano<g ref="char:EOLhyphen"/>ther, yet I will read the Writing,</hi> v. 17. And gene<g ref="char:EOLhyphen"/>rouſly gives his Majeſty a caſt of his Office, to ſet<g ref="char:EOLhyphen"/>tle again his trembling Heart.</p>
+            <p>But Oh! in the Myſtical <hi>Characters</hi> was lapped up the Tragical Propheſie of his doom. It ſeems he wanted ſome <hi>Grains</hi> of that <hi>Weight</hi> and worth,
+<pb n="7" facs="tcp:51125:7" rendition="simple:additions"/>which ſhould have rendred him Currant in the <hi>Ballance.</hi> Too <hi>vain</hi> and <hi>light</hi> a Prince to ſupport the Maſſineſs of Empire. For as <hi>Eſau</hi> ravenouſly eat up his Birth-right, ſo he as prophanely drinks away his Kingdom; and no Cups pleaſe him to tipple in but the poor Captive Ones of the <hi>Sanctuary</hi> (up<g ref="char:EOLhyphen"/>braiding Heaven, that could not redeem them from his gods;) He ſo little remembred his Grandfathers gra<g ref="char:EOLhyphen"/>zing in the <hi>Fields</hi> as a <hi>Beast,</hi> that himſelf was be<g ref="char:EOLhyphen"/>come a greater Brute in his Palace; and forgets that the very Breath of his Noſtrils is a Tenant at will to his Maker. No wonder then that Hea<g ref="char:EOLhyphen"/>ven rings his paſſing Bell. And though he calls for a Prieſt, yet he cannot revoke the immutable Decree, which ſeals him up to deſtruction. How<g ref="char:EOLhyphen"/>ever e'er he go, has this Policy left, that he hopes to bribe Heaven to a Reprieve, by exalting ſo God-like a Man as <hi>Daniel</hi> (a Friend of the gods) to Honour, and Proclaims him <hi>The Third Ruler in the Kingdom,</hi> Chap. 5.29.</p>
+            <p>But alas! this Glory was very ſhort-liv'd,
+<note place="margin">
+                  <hi>Belſhazzer</hi> ſlain.</note> for the Fountain of it lyes (that very Night) bleed<g ref="char:EOLhyphen"/>ing in the Duſt. The Propheſie was fulfill'd, and the King call'd for to Judgment, <hi>v.</hi> 30.</p>
+            <p>However, upon the Change, our Prophet is no loſer, for the Kingdom being tranſlated to <hi>Darius</hi> the <hi>Mede,</hi>
+               <note place="margin">
+                  <hi>Darius</hi> ſuc<g ref="char:EOLhyphen"/>ceeds, who makes him.</note> (to whoſe Ears the Report and Fame of the great <hi>Daniel</hi>'s Parts and Excellency quickly arrives, and himſelf being Old) for the Eaſe of his Government,</p>
+            <p n="1">1. He Conſtitutes under him an Hundred and twenty Deputies, <hi>Chap.</hi> 6.1.</p>
+            <pb n="8" facs="tcp:51125:8"/>
+            <p n="2">2. Over all theſe, Three <hi>Preſidents,</hi> to whom they were to make their Accounts.</p>
+            <p n="3">3. And of theſe three was our <hi>Daniel</hi> chief in Com<g ref="char:EOLhyphen"/>miſſion:
+<note place="margin">Lord chief Preſident.</note> The very firſt Miniſter of State. Thus you have him in the Zenith of his Honours, <hi>Lord high Preſident over all the Kings Councils and Treaſures, next and immediately under himſelf Supreme Gover<g ref="char:EOLhyphen"/>nour,</hi> together with the Reaſon which juſtifies the Kings great Prudence and Policy in promoting him to ſo high Degree,
+<note place="margin">And where<g ref="char:EOLhyphen"/>fore.</note> 
+               <hi>(viz.) Becauſe an Excel<g ref="char:EOLhyphen"/>lent Spirit was found in him.</hi>— He was every way qualified for his Station.</p>
+            <p>But this Mighty Preferment ſoon contracts an univerſal Envy upon him from thoſe whoſe Dim Eyes could not ſee,
+<note place="margin">The Princes Envy.</note> or whoſe Cankered Spirits would not weigh his Merits in a Righteous Scale. <hi>The Hill of Honour is dangerouſly trod, though by ne<g ref="char:EOLhyphen"/>ver ſo fair and meritorious Feet.</hi> Envious Men hate to acknowledge a worth beyond their own, and look with a ſquint Eye on all above themſelves. The Promotion that falls not on their own Heads, grieves their Hearts, and is plotted againſt.</p>
+            <p>Indeed <hi>Daniel</hi> was an <hi>Alien</hi> and a <hi>Captive;</hi> and for ſuch a One to top them in their own Countrey, was (they thought) inſufferable: For this Stranger to Monopolize their Princes affections, and bear away the greateſt ſhare of his Heart and Prefer<g ref="char:EOLhyphen"/>ments, (while themſelves muſt truckle under him, dance his attendance, and ſtrike Top-ſail to him;) This they could with no patience endure. There<g ref="char:EOLhyphen"/>fore the <hi>Preſidents and Princes ſought to find occa<g ref="char:EOLhyphen"/>ſion againſt</hi> Daniel.</p>
+            <pb n="9" facs="tcp:51125:8" rendition="simple:additions"/>
+            <p>
+               <hi>Yet Safely may the Heavenly Aſpirer fix his steps while he has no Competitor to contend with him;
+<note place="margin">Note.</note> and few are Emulous of the Caeleſtial Crown. The Four and twenty Elders may paſs an Eternity, e're any below diſturb their Honours, while weak Eyes wax ſore at the ſight but of a Coronet, though the King him<g ref="char:EOLhyphen"/>ſelf has ſtuck it on.</hi>
+            </p>
+            <p>
+               <hi>They ſought to find occaſion,</hi> &amp;c.
+<note place="margin">And Conſult againſt him.</note> And methinks I fancy them ſitting in cloſe Conſult againſt him, and ranſacking every Inch of his Life and Man<g ref="char:EOLhyphen"/>ners. Not an <hi>under-Officer,</hi> but is brought in and ſtrict<g ref="char:EOLhyphen"/>ly examin'd upon Oath, if poſſibly the leaſt defect might be found in his Managements or Accounts: And perhaps the very <hi>Attendants</hi> of his Family Brib'd or Menac'd into an unreſerved confeſſion and diſcloſure of the daily Cuſtoms of his Houſe, nay and thoſe of his very <hi>Oratory</hi> and <hi>Bed-cham<g ref="char:EOLhyphen"/>ber.</hi> Nor muſt the freedom of his <hi>Table</hi> be al<g ref="char:EOLhyphen"/>lowed him unpurged, if probably even There but a Syllable might eſcape him, which may be Artificially interpreted into <hi>Treaſon,</hi> or wrench'd (but) into the <hi>miſpriſion</hi> of it; Or but any thing which might bear the leaſt ſhadow or Reflexion of diſhonour or damage to the great Perſon, Dignity or Inte<g ref="char:EOLhyphen"/>reſt of his Royal Maſter.</p>
+            <p>But when now after all this, Nothing is ſqueez<g ref="char:EOLhyphen"/>ed out that can (though but) colourably charge him; How do they fret and vex, and are ready to Indict even his Care and his Caution? And are vext that they want Eyes to penetrate into the very Receſſes of his Soul. For it may be, There, might Sculk ſome Trayterous and
+<pb n="10" facs="tcp:51125:9"/>Diſloyal Thought, which gladly would they tear out from his Heart, and produce in Evidence againſt him. But if, even That be White and In<g ref="char:EOLhyphen"/>nocent too, they again wax Mad, and Curſe his very Lovalty and Truth, and could wiſh that his Snowy Innocence would take a Crimſon Dye,
+<note place="margin">But find no<g ref="char:EOLhyphen"/>thing to charge him with.</note> and be (though but Superficially) Criminal. <hi>They ſought occaſion but could find none, for aſ much as he was faith<g ref="char:EOLhyphen"/>ful— Neither was there any Errour or Fault found in him,</hi> Chap. 6.4.</p>
+            <p>
+               <hi>Prying Inquiſition is the</hi> Jackall <hi>to</hi> Malice, <hi>which fetches in the Stores it feeds on; And if it chance to light on a full Prey, how greatly does it gratifie the Beaſt it's Maſter; but if it make but a lean Hunt, what a Deal of groaning and grumbling Diſcontent is there? What a plague is it to envy Innocence, and to make anothers Health Ones own Diſeaſe?</hi> Is thine Eye Evil becauſe mine is Good?</p>
+            <p>And 'tis madneſs to forget,
+<note place="margin">Note.</note> into how many Snares and fatal Dangers the looſe and unguarded Life betrayes Men in the World, when the greateſt Circumſpection and moſt accurate Vigilance, ſhall not ſecure the Wary and Provident <hi>Daniel</hi> from the Gripes of his malicious and conſpiring Ene<g ref="char:EOLhyphen"/>mies.</p>
+            <p>Yet for ever be it Remarqu'd,
+<note place="margin">☞</note> to the Honour of theſe eager <hi>Conſpirators,</hi> That the height of this Feavouriſh Rage did not diſtemper them into the <hi>Diſtraction</hi> of <hi>perjurious Revenges,</hi> nor the Deteſta<g ref="char:EOLhyphen"/>ble Contrivances of <hi>Subornation</hi> againſt him they hate. They will not Damn <hi>Souls</hi> to deſtroy <hi>Bodies.</hi> Their very <hi>Heathen</hi> Conſciences boggled at that
+<pb n="11" facs="tcp:51125:9" rendition="simple:additions"/>Helliſh practice.— 'Tis enough for <hi>Rome</hi> and Hell to boaſt ſuch impious Cuſtoms, and pro<g ref="char:EOLhyphen"/>duce ſuch frightful Monſters, where they are diſ<g ref="char:EOLhyphen"/>pens'd with and encourag'd with due rewards, (unleſs perhaps they have of late Landed among us, in hopes to ſerve a Great Turn, but in Vain,) and O God may theſe Vermine return again to their own home, and no longer infeſt our Air with their infectious Breath.</p>
+            <p>And now very deſpair make theſe <hi>Plotters</hi> Wit<g ref="char:EOLhyphen"/>ty, they alter the Meaſures of their Counſels.
+<note place="margin">They alter Counſels,</note> And ſince nothing can be diſcovered Defective in his Allegiance to his <hi>Prince,</hi> they will weave a Net that ſhall enſnare him in the exactneſs of his Obe<g ref="char:EOLhyphen"/>dience to his <hi>God.</hi> His very <hi>Devotions</hi> ſhall be twiſted into a Cord that ſhall ſtrangle him. And if he dare <hi>pay ſervice to his Maker,</hi>
+               <note place="margin">And Plot againſt Reli<g ref="char:EOLhyphen"/>gion.</note> even That ſhall be <hi>High Treaſon againſt his King.</hi> And (to ſave them the Labour) he ſhall <hi>Pray</hi> himſelf into the Grave. For, <hi>ſaid theſe men, we ſhall find no occaſion againſt this</hi> Daniel, <hi>except we find it againſt him con<g ref="char:EOLhyphen"/>cerning the Law of his God,</hi> verſe 5.</p>
+            <p>
+               <hi>But I would wiſh no greater Judgment upon Plotters than to find them bending their Wits againſt Heaven, which is ever engaged to deſtroy Them, for its own Se<g ref="char:EOLhyphen"/>curity and Honour. Nor can an Arrow be ſhot against Piety without hitting God himſelf directly in the Face. Since all that is in the World is but his Reflexion up<g ref="char:EOLhyphen"/>on the Soul, and He is as much in one Beam or Ray of his Holineſs that ſhines in the Creature below, is in the whole Sun of it that makes Glory above. The Malice that wounds a Saint, would destroy the Deity if it could.</hi>
+            </p>
+            <pb n="12" facs="tcp:51125:10"/>
+            <p>How do I ſee them Chuckle,
+<note place="margin">Which, they are ſure will take.</note> and bleſs their Wits in this New Contrivance. A Plot ſo exquiſitely woven, that there is no room for ſo much as the leaſt fear or Jealouſie of its Miſcarriage and failure. They queſtion not the ſucceſs in the leaſt. He muſt turn Atheiſt to prevent the danger; and for<g ref="char:EOLhyphen"/>ſake his God, or his Life.</p>
+            <p>
+               <hi>Projecting Heads may plod together, and jumble out a Decree of Death. Yet to as little Reputation or Iſſue as a Club of Phyſicians that Vote that Diſeaſe to be Mortal, which Heaven cures by a Figg. Take Coun<g ref="char:EOLhyphen"/>ſel together, and it ſhall come to nought. Speak the word and it ſhall not stand, for God is with us, Iſa.</hi> 8.10.</p>
+            <p>The <hi>Decree</hi> is univerſally agreed on by the <hi>Peers.</hi>
+               <note place="margin">They bar Prayer by De<g ref="char:EOLhyphen"/>cree.</note> And the <hi>Monrach</hi> addreſs'd for his <hi>Royal Aſſent.</hi> They Enact him a <hi>God</hi> (by Law) upon Earth, and make it Death to acknowledge another in Heaven. They put a Trouble upon him, to receive all the Addreſſes of Men, and Create Thirty Holy-dayes for all his fellow-<hi>Deities</hi> to reſt in; <hi>Whoſoever ſhall ask a Pe<g ref="char:EOLhyphen"/>tition of any God or Man for Thirty Dayes, ſave of thee, O King,</hi> &amp;c. <hi>verſ.</hi> 7.</p>
+            <p>
+               <hi>Let him dye, for me, that withholds the juſt Tri<g ref="char:EOLhyphen"/>butes of Honour due unto</hi> Caeſar, (<hi>as the Viſible</hi> Idea <hi>of the Inviſible God, and his Great Lieutenant upon Earth:) But whoever ſhall idly preſume to invest an Earthly Majeſty with Worſhip proper only to the King of Hea<g ref="char:EOLhyphen"/>ven, is ſo far from being</hi> Caeſar's <hi>Friend, that he be<g ref="char:EOLhyphen"/>trayes his Lord to</hi> Herod<hi>'s Fate, and ſhouts him into his Grave.
+<note place="margin">Dominum denm noſtrum Papam. <hi>Extr. Johan.</hi> 22. <hi>Tit.</hi> 14. <hi>c.</hi> 4.</note> Thus his Blaſphemous Paraſites have</hi> Dei<g ref="char:EOLhyphen"/>fied <hi>(their Lord God) the Pope into infinite ſcorn and contempt.</hi>
+            </p>
+            <pb n="13" facs="tcp:51125:10" rendition="simple:additions"/>
+            <p>
+               <hi>Darius</hi> conſults not his <hi>Cabal</hi> to unriddle this Flattery in his <hi>Nobles,</hi>
+               <note place="margin">Which <hi>Darius</hi> too ha ſtily Signs.</note> much leſs does he apprehend any treacherous Deſign in the bottom, but is wil<g ref="char:EOLhyphen"/>ling to interpret it pure Loyalty, and a Politick advance of his Glory, and greater ſecurity in his Empire, now at his firſt approaches unto it; and therefore eaſily inclines to the proffered Honour; and (ſince they will have it ſo) is content to juſtle out his <hi>Maker</hi> from his Throne <hi>for a Month.</hi> There<g ref="char:EOLhyphen"/>fore God puniſh'd his raſh and unadviſed Folly and Pride, whoſe hand Signs the <hi>Decree</hi> which after<g ref="char:EOLhyphen"/>wards makes his Soul to Ake, and becauſe he did not ſleep on't, a-non cannot; and endanger'd the break<g ref="char:EOLhyphen"/>ing his <hi>Heart,</hi> as well as his <hi>ſleep.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ndigeſted Counſels iſſue from us with as little bene<g ref="char:EOLhyphen"/>fit or comfort to our lives,
+<note place="margin">Note.</note> as crude and unconcocted Meats from our Stomacks, which becauſe too greedily taken in and ſwallowed, are the more ſpeedily caſt up again, leaving us empty and diſſatified, if not very ſick and diſeaſed. Whereas timely deliberation hatches our Conceptions into life and perfection; and yields us the Honour as well the Interest of our Patience.</hi> 'Tis an unpardonable Crime in a <hi>Politician,</hi> to cry afterwards, <hi>
+                  <g ref="char:V">Ʋ</g>tinam non feciſſem,</hi> Would I had not done it; and he was no Fool who demurr'd, with a <hi>Cras tibi Reſpondebo,</hi> To morrow I will give you an Anſwer.</p>
+            <p>The Sagacious <hi>Daniel</hi> quickly penetrates through this ſhallow Deſign.
+<note place="margin">
+                  <hi>Daniel</hi> diſco<g ref="char:EOLhyphen"/>vers the Plot.</note> He eaſily ſees the Warrant for his own Execution written on the back-ſide of this plauſible <hi>Decree,</hi> yet will not prevent it. His Great Soul bids defiance to it, and them that fram'd
+<pb n="14" facs="tcp:51125:11"/>it. He ſcorns to live when he cannot ſerve his God, yet will ſerve him; though he die for it. He will not neglect his Duty for Thirty Days toge<g ref="char:EOLhyphen"/>ther, no not to ſave his Blood. But reſolves ra<g ref="char:EOLhyphen"/>ther to paſs into Immortality to ſerve him there.</p>
+            <p>
+               <hi>In vain</hi> (ſayes <hi>Solomon) is the Net ſpread in the ſight of any Bird,</hi>
+               <note place="margin">Note.</note> (for then he will fly from it) but here is One that diſcovers the Snare, yet has courage enough to fly into it. <hi>Nor is it worth living where we cannot enjoy the true ends of Life, and when Death it ſelf is but an opening into the joyful Li<g ref="char:EOLhyphen"/>berties of Eternity.</hi>
+            </p>
+            <p>The <hi>King</hi> having paſs'd the Law—The <hi>Tre<g ref="char:EOLhyphen"/>panners</hi> begin to ſneak about the Lord <hi>Preſidents</hi> Lodgings. Malice degenerates them into <hi>Eves<g ref="char:EOLhyphen"/>droppers,</hi> they creep up and down under his very Windows. If the <hi>Caſement</hi> chance to flye open, the project thrives, their hopes ſwell, and the Blood capers in their Veins.
+<note place="margin">Yet ſcorns to diſſemble his Religion.</note> And he (brave Spi<g ref="char:EOLhyphen"/>rit) opens it on purpoſe, to let them ſee and know that he dreaded not their impious Law, nor would ſlack an Ace of his Daily Zeal and Devotion to his God; and this he did, <hi>When he knew, that the Wri<g ref="char:EOLhyphen"/>ting was ſign'd, v.</hi> 10. 'Twas below his Great Per<g ref="char:EOLhyphen"/>ſon and Spirit to deny or diſſemble his Religion. Faith and Love makes him truſty to it, againſt all Conſpiracies of Men or Devils.</p>
+            <p>And what know we,
+<note place="margin">Some are ſet to watch him.</note> but ſome ſo were impudent as to ſteal up Stairs and peep through the very <hi>Key<g ref="char:EOLhyphen"/>hole</hi> to diſcover (but) the firſt Motion towards a <hi>Genuflection.</hi> But when thoſe Sacred joynts incline to bend to the reſolved Worſhip, how<g ref="char:punc">▪</g> greedily
+<pb n="15" facs="tcp:51125:11" rendition="simple:additions"/>do they ſuck in the very firſt <hi>Spiration,</hi> and <hi>prepa<g ref="char:EOLhyphen"/>ratory</hi> Sighs? they draw in that <hi>Incenſe</hi> which <hi>Perfumes</hi> the <hi>Chamber,</hi> but (they reſolve) ſhall Poy<g ref="char:EOLhyphen"/>ſon the <hi>Prieſt;</hi> They <hi>hearken</hi> not for <hi>Zeal,</hi> but <hi>Itch<g ref="char:EOLhyphen"/>ing,</hi> they lift not up <hi>Hands</hi> but <hi>Ears,</hi> and thô they hear him Confeſs ſo tenderly, as <hi>Heaven</hi> it ſelf is <hi>Melted</hi> with his Pathetick Expreſſions, yet they Con<g ref="char:EOLhyphen"/>geal and are <hi>Petrified.</hi>
+            </p>
+            <p>But (brave <hi>Belteſhazzar!</hi>)
+<note place="margin">He is acted by Conteſts of</note> how little do we know what various Paſſions agitate thy Sacred Breaſt at this time? what conteſts between Nature and Grace, Fleſh and Spirit? Or wer't thou all Soul, and tranſ<g ref="char:EOLhyphen"/>ported beyond the Cares and remembrance of thy Mortal and Suffering part, that I hear thee break in<g ref="char:EOLhyphen"/>to ſuch Raptures as theſe?</p>
+            <p>
+               <hi>What! and muſt I forſake my God now, or not Live?
+<note place="margin">1 Spirits</note> and forſake him too upon ſuch unhappy Terms as theſe, to gratifie the Wiſhes of theſe Malicious Confederating Heathens? Is Devotion become fatal, and muſt Prayer it ſelf Kill? Cannot I go to my God, but the next Step muſt be to the Grave? 'Tis worſe than Death to live but one Day without him who is the Life of my Soul; how then ſhall I live Thirty? Muſt I wear theſe Fetters upon mine Affections and Lips, which theſe Mens Envy and Cunning have clapt on me, with deſign to Enſlave me for ever? Rather let the Beaſts tear open a Paſſage for this</hi> Captive <hi>within me to paſs into the Liberties of Ever<g ref="char:EOLhyphen"/>laſtingneſs, than thus to be Cag'd up in ſo inſufferable a Vaſſalage! Do they think to immure up my Soul? Let them rend me from the Court of</hi> Darius, <hi>my Heaven is not there, as is theirs; My Body is the Kings to his
+<pb n="16" facs="tcp:51125:12"/>Pleaſure and Service, but my Soul is Gods unto his. I'le venture an Ingorgement into the Bowels of the Lions, e're they ſhall glory over mine Apoſtacy from my Religion and my God.</hi>
+            </p>
+            <p>
+               <hi>But hold!
+<note place="margin">2 Fleſh.</note> whither does this Noble but Temerarious Zeal Tranſport thee,</hi> Daniel? <hi>Is this thy Kindneſs to thy deareſt Self? and haſt thou no Regard to the Glories and Sweets of Life? Is that</hi> Holy Fire, <hi>that Devours its own Altar? and Calleſt thou that Zeal that hurls thee into nothing, and tempts thee to an Annihilation? Is Death ſo deſirable? and ſuch a Death as will gratifie thine Enemies too? Whoſe Malice will Feaſt it ſelf on thy Ru<g ref="char:EOLhyphen"/>ines, with greater Luxury than the Lions Banquet on thy Fleſh? What is this but to Execute the Plot againſt thine own Life, which they cannot perfect without thee? and will thy God thank thee for Deſtroying thy Self, and throwing away thy Life for a Nicety, the Ceremony and Carkaſs of Devotion, which his Grace is ſo ready to diſpenſe with, and for ſo little a time as a Month too? Is he not the Father of Spirits, and regards more the Oratory of a Sigh than all the luſcious Expreſſions of the Lips? <g ref="char:V">Ʋ</g>nderſtands he not the Language of the Soul, and hearkens to the very deſires of the Humble? Maiſt thou not Offer up the purer Sacrifice from the Secret Altar of a Flaming Heart, and be ſafe? What an advantage haſt thou to baffle the Conſpiracy by a Mental Devotion, and to Countermine the Villanies of their Curſed Policy by locking up thy Soul in its ſelf?</hi>
+            </p>
+            <p>Ah no!
+<note place="margin">Spirit prevails.</note> The brave <hi>Votary</hi> ſcorns to compound with his God for his Life, nor will ſave himſelf by
+<pb n="17" facs="tcp:51125:12" rendition="simple:additions"/>ſo much as Latching the Door of his <hi>Lips;</hi> He will not Stifle the <hi>Vent</hi> of his Soul, thô it ſelf were ſure to fly through it: He will glorifie God with his <hi>Speech,</hi> thô he ſpeak himſelf into Air; He will not Disfi<g ref="char:EOLhyphen"/>gure the <hi>Body</hi> of his Duty, to ſave his <hi>own</hi> from Man<g ref="char:EOLhyphen"/>gling; and would rather the Lions ſhould open their Mouths to Swallow him, than he by ſhutting up his, to Impriſon his Zeal and Affections. He reſolves that his <hi>Mouth ſhall Confeſs unto God</hi> (and the World) <hi>that his Heart believeth unto Salvation;</hi> and (while his Enemies were Watching) Imagine this devout Sup<g ref="char:EOLhyphen"/>plicant thus pouring out his Soul unto God.</p>
+            <div type="prayer">
+               <head>The PRAYER.</head>
+               <p>
+                  <hi>GOD of my Soul and of my Being, the Glorious Je<g ref="char:EOLhyphen"/>hovah that Inhabiteſt inacceſſible Light and Ever<g ref="char:EOLhyphen"/>laſtingneſs, and humbleſt thy Self to behold the things that are in Heaven and Earth—Hear and have Mercy. Thou art God alone, and beſides thee there is none elſe: What is this</hi> Darius, <hi>whom theſe Men have blaſphemouſly Ex<g ref="char:EOLhyphen"/>alted to Rob thee of thy Glory and Worſhip, and made a God of him that cannot help, that cannot Save him<g ref="char:EOLhyphen"/>ſelf or others— O Pardon their Sin. And this they have done with deſign to Rob me too, of this Glorious Liberty of Acceſs to thee my God, who art the very Life of my Soul, and whoſe loving Kindneſs is better than Life, and without whom Life is none at all. They would Shut me from thy Preſence, but do not thou; Open the Door of thy Grace and my Soul, that I may fly unto thee; And thô</hi> [theſe] <hi>theſe mine Enemies lye in wait for my Blood; Yet let me Praiſe thee with joyful Lips, and Serve
+<pb n="18" facs="tcp:51125:13"/>thee without Fear. What, though they have Decreed to take away my Life, are not my Times in thy hand? and without thee ſhall not fall an hair from my Head. O give me a Faith beyond my Fear, and a Courage beyond their Malice, that I may Dye rather than diſown thee; and by Devoting my Self a Sacrifice to thy Glory, may let all the World know that thou Lord, art the only God that Saveſt the Souls of thy Servants who put their truſt in thee. Redeem thy Church and People</hi>— But here a Noiſe Interrupts him:
+<note place="margin">They find him Praying. <hi>v.</hi> 11.</note> The Confederates cry out amain, <hi>Treaſon, Treaſon, A Traitor againſt our King and his Law, away with him to the Lions,</hi> Darius <hi>himſelf cannot Save him.</hi>
+               </p>
+               <p>(Theſe, we may ſuppoſe, were the Evidence rea<g ref="char:EOLhyphen"/>dy to Swear againſt him, who could ſafely take their Oaths (without fear of Perjury) that they heard him making his Petitions to the God of Heaven, and ſo breaking the Decree.)</p>
+               <p>And now has the Plot taken effect,
+<note place="margin">The Plot takes.</note> the Innocent man falls by the Councils of the Wicked; <hi>Righteous art thou O Lord, yet let me talk with thee of thy Judg<g ref="char:EOLhyphen"/>ments; Wherefore doth the way of the wicked Proſper? wherefore are they happy that deal very Treacherouſly?</hi> Jer. 12.1. <hi>So fooliſh was I and Ignorant—Surely thou didſt ſet them in ſlippery places, thou Caſteſt them down into Deſtruction; how are they brought into Deſo<g ref="char:EOLhyphen"/>lation as in a moment, they are utterly Conſumed with Terrours,</hi> Pſal. 73.18, 19, 22.</p>
+               <p>Now may you ſee them troop together with Joy and ſpeed to the Court,
+<note place="margin">They go to Court</note> where they ſubtilly repeat the Contents of the Law to the King, with a Cur<g ref="char:EOLhyphen"/>ſed Policy of deſigning to oblige him to a Sacred and
+<pb n="19" facs="tcp:51125:13" rendition="simple:additions"/>Inviolable obſervance of his own Edict, e're ever they diſcover the Tranſgreſſor, who (they knew) was ſo dear to him, that (for his Sake) he might have ſtrain'd his Prerogative unto the length of a Pardon, (if poſſible.) But having once oblig'd him by the honour of his Royal word to confirm the Decree, then they preſume to produce the <hi>Indict<g ref="char:EOLhyphen"/>ment,</hi> and thus Addreſs:</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="address">
+                           <head>O King Live for Ever.</head>
+                           <q rend="margQuotes">
+                              <p>THat <hi>Daniel</hi> who pretends ſo much Love and Loyalty to thy Royal Perſon,
+<note place="margin">And Indict him.</note> ſo much Venera<g ref="char:EOLhyphen"/>tion and reſpect to all thy Laws, <hi>He, He</hi> is the firſt Rebell. Ungrateful man that he is, whom of a Captive of the Children of <hi>Judah</hi> thou haſt load<g ref="char:EOLhyphen"/>ed with ſuch Honours, whoſe very weight has unfor<g ref="char:EOLhyphen"/>tunately caus'd him to Stagger in his Loyalty; and 'tis viſible <hi>(Dread Sir)</hi> that the Sublimity of his State has giddied him into Fanaticiſm too; he Trants after other Gods, as if thou O King wert not God enough for him, who haſt been ſo kind and Royal to him. Never has the Largeſſe of Princely Bounty ſo unluckily miſcarried by Ingra<g ref="char:EOLhyphen"/>titude and Treachery, which dares be ſo Inſolent to give ſo pernicious an Example of <hi>firſt</hi> Violating that <hi>Law,</hi> which he ſhould have valued infinite<g ref="char:EOLhyphen"/>ly dearer than his Life, and rather than have pro<g ref="char:EOLhyphen"/>ſtituted it to vulgar Contempt, ſhould have Sacri<g ref="char:EOLhyphen"/>fic'd the warmeſt Blood of his Heart to its Glory.</p>
+                              <p>WE Pray therefore that he may <hi>(Suffer the Pains and Penalties of the Irrevocable</hi> Decree <hi>He
+<pb n="20" facs="tcp:51125:14"/>has ſo Prophanely Deſpiſed, may receive the juſt Re<g ref="char:EOLhyphen"/>compenſe of his haughty Rebellion and Pride)</hi>— <hi>Be thrown to the Lions.</hi>
+                              </p>
+                           </q>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Now is the King almoſt Dead with Sorrow,
+<note place="margin">The King re<g ref="char:EOLhyphen"/>pents Signing the Decree.</note> the fatal News more wounds his <hi>Royal</hi> Heart than the <hi>Priſoners;</hi> he hath not a better Subject in the King<g ref="char:EOLhyphen"/>dom, who muſt now be rent from his Boſom by a Stratagem; the malicious Imputations of <hi>Diſloyalty</hi> and <hi>Rebellion</hi> (he well knew) were but the Proofs of his <hi>Innocency</hi> and their <hi>Malice;</hi> This is ſo far from being a Service to his <hi>Majeſty,</hi> as 'tis his <hi>Torment.</hi> Have they Decreed him a <hi>God</hi> to this end, to make him a miſerable <hi>Prince?</hi> The King himſelf Suffers in the Plot, and is Perſecuted in the <hi>Captive;</hi> baſely Betrayed to Sign the <hi>Decree,</hi> which Seals his own Vexation and Trouble: 'Tis <hi>they,</hi> and not <hi>Daniel,</hi> were guilty of the Treaſon againſt his Royal Tran<g ref="char:EOLhyphen"/>quility and Peace.</p>
+               <p>
+                  <hi>Ill-condition'd Men!</hi> Is this your Loyalty to your King? muſt the Object of your Princes <hi>Favour</hi> be<g ref="char:EOLhyphen"/>come preſently the Subject of your <hi>Hate?</hi> muſt he not live, becauſe the King Loves and has Honour'd him? Then is <hi>Royal Affection</hi> become miſerably Ominous, its Embraces are avoided as a <hi>Diſeaſe,</hi> the Eye of its Favour become Mortal as a <hi>Baſilisk</hi>'s.</p>
+               <p>Unhappy <hi>Daniel!</hi> to be ſo Lov'd and ſo Hated! ſo paſſionately Lov'd by the <hi>King,</hi> ſo univerſally Ma<g ref="char:EOLhyphen"/>lign'd by his <hi>Nobles.</hi> Here's not one of all the <hi>Peers</hi> has a pity for thee,
+<note place="margin">The Princes Addreſs for Execution. But the King Demurrs.</note> they jointly Addreſs for thy ſpeedy Execution; <hi>(Nemine Contradicente.)</hi> The King ſingly demurrs, and while he does ſo, they impati<g ref="char:EOLhyphen"/>ently
+<pb n="21" facs="tcp:51125:14" rendition="simple:additions"/>Addreſs a ſecond time, (and had not ſo proſpe<g ref="char:EOLhyphen"/>rouſly ſucceeded hitherto, now to ſuffer their Plot to Periſh in Embryo.) Malice makes them forget good Manners, they incroach on Majeſty, grow Rude and Uncourtly: <hi>Know, O King, that the Law of the Medes and Perſians is, that no Decree nor Statute which the King Eſtabliſheth may be changed,</hi> v. 15. <hi>q. d.</hi> 
+                  <q rend="margQuotes">We have thee now at a Bay, this Rebel may not be Pardoned, the Laws of thy Kingdom will not bear it, thô thou wouldeſt; therefore in vain doſt thou labour to deliver him, for Dye he muſt and ſhall.</q>
+               </p>
+               <p>
+                  <hi>Fetter'd Majeſty!</hi> that canſt not deliver thy <hi>Dar<g ref="char:EOLhyphen"/>ling from the Lions!</hi> that canſt not Pardon him nor thy Self for Betraying him to his Enemies! Now reap <hi>(Darius)</hi> the diſquiet Fruits of thine own un<g ref="char:EOLhyphen"/>adviſedneſs and haſte! 'tis Death to thee to Suffer him to die, yet he muſt; here dies a Priſoner without whom the King himſelf lives not, yet muſt dye.</p>
+               <p>God is bound up by his <hi>Decrees,</hi>
+                  <note place="margin">At length deli<g ref="char:EOLhyphen"/>vers him up.</note> and ſo is this <hi>Mo<g ref="char:EOLhyphen"/>narch;</hi> He could (almoſt) himſelf have Suffered to ſave his <hi>Favourite</hi> alive, yet muſt now Sacrifice him to the honour of his Laws: <hi>How Sacred are thoſe Obligations that manacle the hands of Soveraignty?</hi> theſe call for the Offenders blood, and ſhall have it. Even Laws are <hi>Canibals</hi> too: <hi>Then the King Commanded, and they brought Daniel,</hi> &amp;c. <hi>v.</hi> 16.</p>
+               <p>But how do I ſee the great <hi>Darius</hi> hugging him in his Arms; whilſt he beholding him (as he fears) with his laſt eyes, breaths out his very Heart to him in ſuch dear Expreſſions as theſe?</p>
+               <pb n="22" facs="tcp:51125:15"/>
+               <q rend="margQuotes">
+                  <p>
+                     <note place="margin">And takes his laſt leave as lie fears.</note>
+                     <hi>DAniel,</hi> my deareſt <hi>Daniel,</hi> the brighteſt Star that ever Illuſtrated a Princes Court! the faithfulleſt Servant that ever bleſs'd a Maſter! the very Glory and Flower of my Kingdom and Pa<g ref="char:EOLhyphen"/>lace, who art paſſing up into thoſe more glorious Manſions, where only dwell ſuch Spirits as thine. Thou wilt no more envy the Toys of Regality, nor need the aiery Honours of an earthly Palace; I am diſtreſſed for thee my deareſt <hi>Daniel;</hi> How willingly could I uncloath my ſelf from theſe vain Badges of Majeſty to <hi>paſs into Spirit</hi> with thee? were it not that I ſtay behind to Sacrifice Heca<g ref="char:EOLhyphen"/>tombs of thine Enemies to thy Ghoſt, who ſhall dearly pay the recompenſes of their Envy and my loſs— But ſtay, may not thy God meet thee in the Den, as (I have heard) <hi>Shadrak</hi>'s did him in the Furnace; and methinks I have Faith to be<g ref="char:EOLhyphen"/>lieve he will; and leaſt thine Enemies ſhould think ſo too, and ſend in Ruffians more cruel than the Beaſts to deſtroy thee, My care ſhall obviate that danger, while I Seal thee up under the Protecti<g ref="char:EOLhyphen"/>on of Heaven and thy God.</p>
+               </q>
+               <p>How ſtately paſſes the <hi>Captive</hi> to the Den,
+<note place="margin">He paſſes to the Den.</note> rich<g ref="char:EOLhyphen"/>ly Laden with the <hi>Trophies</hi> of his Princes affecti<g ref="char:EOLhyphen"/>ons, and the Graces of his God! He leaves nothing behind him, that he ſhould take to Heaven with him, but the Thoughts of <hi>Revenge;</hi> (which he there<g ref="char:EOLhyphen"/>fore leaves, becauſe there is no room for them there.) Nay he could have even wiſh'd their Company with him, whoſe cauſeleſs Malice had too ſubtilly contriv'd
+<pb n="23" facs="tcp:51125:15" rendition="simple:additions"/>his (deſigned) diſpatch from the World:</p>
+               <p>The Innocent <hi>Victim</hi> is now (as <hi>Iſaac</hi>) upon the <hi>Altar,</hi> but wants a <hi>Prieſt</hi> to Sacrifice him.
+<note place="margin">The Lions hurt him nor.</note> Is aſto<g ref="char:EOLhyphen"/>niſh'd at the Miracle of his own Deliverance, and wonders to find better Friends in the <hi>Den,</hi> than at Court. <hi>A Spirit of Glory</hi> reſts upon him, which put the very Lyons in a fright. They had no ſtomach to him, who had no ſtomach againſt him; and though his <hi>Enemies could have eaten him up,</hi> they were more merciful and would not. He had a Sur<g ref="char:EOLhyphen"/>plice of Innocence upon him which was Lyon<g ref="char:EOLhyphen"/>proof. It made him look Sacred, and ſtruck ſuch a Reverence and Aw, that they rather <hi>fawn</hi> and <hi>crouch,</hi> then <hi>grin</hi> or <hi>wax ſurley.</hi> He ſtands armed with the Shield of that <hi>Faith</hi> which wrought Mi<g ref="char:EOLhyphen"/>racles, (even) this of <hi>Stopping the Mouths of Lyons:</hi> Who were ſo Civil as not to fall out with him, againſt whom God and the King had no Quarrel.</p>
+               <p>
+                  <hi>Daniel</hi> has done what he could,
+<note place="margin">He has done his Duty.</note> and God himſelf expects no more. He has yielded his Life (in Teſti<g ref="char:EOLhyphen"/>mony of his Faith) and now he will give it him back. Becauſe he was ready to loſe it, therefore ſhall he ſurely keep it. <hi>Let Heaven diſpoſe of us as it pleaſe, 'tis enough for us to reſign our ſelves and be will<g ref="char:EOLhyphen"/>ing.</hi>
+               </p>
+               <p>While <hi>Daniel</hi> is in Danger,
+<note place="margin">No Feaſting at Court.</note> there's no Feaſting at Court, the King himſelf <hi>Faſts</hi> for him, that the Beaſts may not <hi>Feaſt</hi> upon him. <hi>Surfeits and Mirth ſpeak little Sympathy with the Churches Sorrowes.</hi> 'Twas unnaturally done once of the <hi>Patriarch</hi>'s to ſit them down to Eat and to Drink, while their poor <hi>Brother</hi> was Faſting in the <hi>Pit, Gen.</hi> 37.24, 25. A
+<pb n="24" facs="tcp:51125:16"/>piece of Cruelty acted over again by their obdu<g ref="char:EOLhyphen"/>rate and ungracious Poſterity: <hi>Who fed on the Lambs of the Flock and the fat Calves of the Stall, and Drank their Wine in Bowles, but were not grieved for the Affliction of Joſeph,</hi> Amos 6.5, 6.</p>
+               <p>Nor could <hi>Muſick</hi> be in ſeaſon,
+<note place="margin">Nor Muſick.</note> when the King himſelf was <hi>out of tune.</hi> The Air of a Viol could not drive out of his mind the ſad ſcrieches of his Friend, while the Beaſts (as he fear'd) were champing him in their Teeth. Yet was there a brave <hi>Conſort</hi> in the Den: For the <hi>Snorings</hi> of the ſleeping Lyons kept ſo Even an Accent, that <hi>Daniel</hi> was ready to dance for Joy.</p>
+               <p>Yet could not the King cloſe his Eyes,
+<note place="margin">The King can<g ref="char:EOLhyphen"/>not ſleep.</note> while he is jealous his Favourite has none to cloſe. He had ſlept ſo ſoundly hitherto, while this care<g ref="char:EOLhyphen"/>ful <hi>Superintendent</hi> had a Vigilant Eye over all his Affairs, that he might well awake (one Night) to condole his loſs, and learn himſelf to watch, when now his <hi>Watchman</hi> (for ought he knew) might be fallen aſleep in Death.</p>
+               <p>Yet is <hi>Daniel</hi> awake too, and while the Lyons <hi>Couch,</hi> he gently lies by in peace, and is here be<g ref="char:EOLhyphen"/>come the <hi>Guard</hi> of his (intended) Executioners. God had ſhut their <hi>Eyes</hi> as well as their <hi>Mouths,</hi> and while theirs were cloſed down in <hi>Reſt,</hi> his were lifted up in <hi>Faith</hi> and <hi>Prayer,</hi> that They might ſleep on ſecurely, who might have chanced elſe to have made a Meal upon him at Midnight.</p>
+               <p>No ſooner had the Night began to draw it's Curtains,
+<note place="margin">And Riſes early.</note> but <hi>Darius</hi> draws his. Neither Bed nor Palace can hold him while <hi>Daniel</hi> was miſſing.
+<pb n="25" facs="tcp:51125:16" rendition="simple:additions"/>The firſt Light leads him to pay his viſit to him either <hi>Dead</hi> or <hi>Alive;</hi> He is reſolved to have an end of his <hi>Fears</hi> or his <hi>Hopes; (Delays in great Expecta<g ref="char:EOLhyphen"/>tions are Killing, 'tis perfect Hell that puts off for ever.)</hi> He haſtens his Body thither to meet his Heart, which he had left lock'd up with <hi>Daniel</hi> in the Den all the night. <hi>Then the King aroſe very early in the Mor<g ref="char:EOLhyphen"/>ning, and went in haſt to the Den,</hi> &amp;c.</p>
+               <p>How nimbly do I ſee his Royal Feet pace the Streets, while yet his affections Lacquey before him,
+<note place="margin">And haſts to the Den.</note> and are impatient after the firſt Tidings? See, <hi>how love faſcinates Majeſty into a forgetfulneſs of its Gran<g ref="char:EOLhyphen"/>deur.</hi> He values not the Complements of State, ſo he find <hi>Daniel</hi> alive 'tis <hi>Great</hi> enough.</p>
+               <p>Why may not <hi>Darius</hi> meaſure Faith with <hi>Abra<g ref="char:EOLhyphen"/>ham, who againſt hope believed in hope too?</hi> And <hi>being not weak in faith, conſidered not</hi> the natural fierce<g ref="char:EOLhyphen"/>neſs of theſe voracious Beaſts, nor the biting rage of their hungry Bellies, nor the Luſcious ſweetneſs of <hi>Daniel</hi>'s Blood; but againſt all theſe, expected life to ſtart out from the very Womb of Death? For, <hi>When he came to the Den,
+<note place="margin">And cries la<g ref="char:EOLhyphen"/>mentably to <hi>Daniel.</hi>
+                     </note> he cryed with a Lamentable voyce unto Daniel,</hi> &amp;c. <hi>v.</hi> 20.</p>
+               <p>
+                  <hi>Object.</hi> But does not his kindneſs run him into folly here, and <hi>Daniel</hi> into hazard; ſince by ſo loud an Exclamation at his coming to the Den, he might chance to rouze up the ſleepy Lyons to an early execution, which all the Night long they had faſted from, with purpoſe to reſerve him for a Break-faſt in the Morning, and now comes the King and <hi>halloo</hi>'s them to it?</p>
+               <p>
+                  <hi>Anſw. Brutes</hi> (like ſome Men as bad) conſult not
+<pb n="26" facs="tcp:51125:17"/>the <hi>Morrow,</hi> but love to make ſure of the preſent Prey. <hi>Senſe</hi> knows no Life of <hi>Faith,</hi> and ſeldom truſts <hi>out of hand;</hi> grapples at every thing coming in its way, and ſo its Panch be preſently ſtuff'd, has confidence enough to truſt till hereafter.— The King knew that if he were yet alive, 'twas Providence, not Project, that kept him ſo.</p>
+               <p>
+                  <hi>He cried with a lamentable Voyce unto</hi> Daniel, &amp;c. What ſurer Indication couldſt thou have given thy <hi>Daniel</hi> of the fixed unalterableneſs of thy Prince<g ref="char:EOLhyphen"/>ly Affections to him,
+<note place="margin">An aſſurance of his Love.</note> even beyond the Grave? While thus thou ſendeſt thy very Soul to him (wrapt up in a Sigh) that pierces through the very Stone which yet ſeperates thee from him, and ſafely ar<g ref="char:EOLhyphen"/>rives into his joyful Ears? For now aſſuredly he was not dead at Court, who was ſtill alive in the Priſon. To me <hi>(Darius)</hi> art Thou a fair Prece<g ref="char:EOLhyphen"/>dent of entire and abſolute Freindſhip, and the Illu<g ref="char:EOLhyphen"/>ſtrious Copy of him, who will <hi>never leave, nor forſake.</hi> And I thank thee (O King) for minding me of my Saviour, who (methinks) with the ſame Accent, is ever crying unto me in the midſt of my dangers, <hi>Is Joſeph yet alive?</hi>
+               </p>
+               <p>
+                  <hi>How good is God,
+<note place="margin">Note.</note> to thoſe that truſt him! Daniel</hi> has the Heart of his Prince as ſure as God hath his own. <hi>Wolſeys</hi> heavy Groan upbraided his <hi>Maſters</hi> Inconſtancy to him in his Age, but was (confeſſed<g ref="char:EOLhyphen"/>ly) grounded on his own to God. There is all Gain in Godlineſs, (that univerſal Trader,) which hath a Patent from Heaven, to Traffick for it ſelf in the very Boſom of Kings, which Themſelves cannot prevent though they would.</p>
+               <pb n="27" facs="tcp:51125:17" rendition="simple:additions"/>
+               <p>For what an Honour was this to the Impriſon'd <hi>Daniel,</hi> to have <hi>Majeſty</hi> waiting on him at the <hi>Door?</hi> The King had ſent no leſs Perſon than <hi>Him<g ref="char:EOLhyphen"/>ſelf,</hi> to enquire of his Welfare, and to return the <hi>Lions</hi> his thanks for their Civility that night to his <hi>Friend.</hi> And now may you hear him thus Paſſionate<g ref="char:EOLhyphen"/>ly Crying</p>
+               <p>
+                  <hi>O Daniel! Servant of the Living God, is thy God able to deliver thee,</hi> &amp;c? <hi>Daniel</hi> had entred the Den inthe Faith of Gods Word and the Kings Affidavit, <hi>Thy God will deliver thee,</hi> v. 16. and does he now abate of his Confidence? <hi>Is he able? Great dangers try the Mettle of our Faith, and ſwelling Fears ſink our Courage:</hi> He is more than a <hi>Peter</hi> that can tread the <hi>Waters</hi> and not cry out; there is a <hi>Fear</hi> hangs on our very <hi>Faith.</hi> The King might averr that God would (for he had heard that he had, in as great dangers) yet might he <hi>doubt,</hi> leſt he <hi>now</hi> had not: <hi>Hiſtorical Faith</hi> made him Promiſe, but Paſſionate Love made him fear and be jealous.</p>
+               <p>But <hi>Daniel</hi> is yet alive,
+<note place="margin">The King finds <hi>Daniel</hi> alive.</note> and Bleſſes God and the King: He imployes his Breath to the ends it was given him; <hi>O King Live for ever!</hi> Thy Servant <hi>(yet Alive)</hi> darts up that Sacred Option from his very Soul for thee: <hi>'Tis Stinking Breath that Curſes any, but Infectious 'tis that Curſes the King.</hi> Thô the <hi>Tongue</hi> be a <hi>Fire,</hi> 'tis Inſolence in it to make havock of the <hi>Palace.</hi>
+               </p>
+               <p>From <hi>Prayer</hi> the <hi>Prophet</hi> proceeds to <hi>Preaching,</hi> and (the Chappel not yet open) <hi>Darius</hi> is content to be his Auditor in the Porch: He divides his Sermon into two parts, and treats, Firſt, <hi>Of Gods goodneſs to him
+<pb n="28" facs="tcp:51125:18"/>in ſhutting the Lyons Mouths,</hi> (or elſe his own had not been open this Morning:)
+<note place="margin">Who pleads his Innocency and Loyalty.</note> Secondly, His own <hi>Innocency,</hi> where he juſtifies his moſt entire Duty and Veneration both to God and the King; (and he handles theſe both together, becauſe they are inſeparable.) The <hi>Life</hi> of the <hi>Preacher</hi> was the vi<g ref="char:EOLhyphen"/>ſible proof of the whole Sermon. The King ne<g ref="char:EOLhyphen"/>ver heard one that better pleas'd him, and the ve<g ref="char:EOLhyphen"/>ry <hi>Lions</hi> themſelves ſeem to underſtand it, while they ſtand <hi>Mute</hi> and <hi>Demure,</hi> and are more Mannerly than to diſturb him; nay, they are his very <hi>Con<g ref="char:EOLhyphen"/>verts,</hi> and the <hi>proof of his Miniſtry,</hi> who from his firſt coming among them, by the Reverence of his Perſon (his very Silence) had transformed them from their natural <hi>Ferity,</hi> into a wonderful <hi>Humanity!</hi> How much more his Eloquence!</p>
+               <p>And <hi>Experience</hi> now makes him confident of their Love and his own Safety.
+<note place="margin">And therefore is fearleſs.</note> 
+                  <hi>Deliverances</hi> (like ſome Friends) <hi>are Security each for the other, and the more the ſtronger ſtill,</hi> eſpecially where <hi>Faith</hi> ſtands <hi>Prin<g ref="char:EOLhyphen"/>cipal,</hi> and a good <hi>Life</hi> as <hi>Witneſs. David</hi> Slings the <hi>Bear and the Lyon</hi> with the Stone that Stunn'd the <hi>Philiſtine;</hi> and the <hi>Iſraelites</hi> on the Shore, ſtood as Sureties to the reſt in the midſt of the <hi>Channel.</hi> The ſame <hi>Faith</hi> that hung the Padlock on the Mouths of theſe Lions over night, was ſtrong enough to keep it on till ſuch time as it Self pleas'd to unlock it next day, to make room for the Conſpirators.</p>
+               <p>The <hi>Sermon</hi> (now finiſh'd) has the Effects of <hi>Thunder,</hi>
+                  <note place="margin">The Den is open'd, and <hi>Daniel</hi> deliver<g ref="char:EOLhyphen"/>ed.</note> the <hi>Seals</hi> are rent away, and the <hi>Stony Door</hi> of the Chappel flies open, the <hi>Preacher</hi> is hurl'd (he hardly knows how) into the Royal Preſence,
+<pb n="29" facs="tcp:51125:18" rendition="simple:additions"/>where he finds the King <hi>Heaven-ſtrucken</hi> too; an Ex<g ref="char:EOLhyphen"/>taſie of Joy had Raviſh'd away his Senſes, and he talks (like a <hi>Fanatick indeed</hi>) Diſtractedly; <hi>Ah Dani<g ref="char:EOLhyphen"/>el, art thou indeed my very Daniel? May mine Heart believe what mine Eyes ſee?</hi> Then ſtands like a <hi>Statue:</hi> (his rolling eye the only Index of his Life:) Is aſto<g ref="char:EOLhyphen"/>niſh'd and admires what he cannot expreſs; at length recovering himſelf into <hi>Majeſty</hi> again, he thunders out his dreadful Mandates,
+<note place="margin">And his Ene<g ref="char:EOLhyphen"/>mies caſt in.</note> and orders the Execution of his own and the Lord <hi>Preſidents</hi> Enemies.</p>
+               <p>This is a Day of Memorable <hi>Deliverance,</hi> and the King dubs it into a <hi>Feſtival;</hi> the Commons are doubled at Court, but the <hi>firſt Courſe</hi> ſhall be ſerv'd up to the <hi>Lyons:</hi> Good reaſon they who ſo Superſtitiouſly Faſt<g ref="char:EOLhyphen"/>ed all the night, ſhould now Feaſt the next day: There<g ref="char:EOLhyphen"/>fore the King orders them Meſſes of all ſorts and Sex<g ref="char:EOLhyphen"/>es, <hi>Young and Old.</hi> They ſtay not laying the cloth, (and <hi>Daniel</hi> had given thanks before,) but they ha<g ref="char:EOLhyphen"/>ſtily fall too; nay, they meet the Waiters in the <hi>En<g ref="char:EOLhyphen"/>try,</hi> and catch away their Meat e're it come to the Table, and make no Bones of theſe <hi>Trepanners;</hi> (the Crackling of whoſe Joynts make Muſick, while they are Scranch'd by the Teeth of the Beaſts,) and all to<g ref="char:EOLhyphen"/>gether they Tip off the <hi>King</hi>'s Health and <hi>Daniel</hi>'s in the very Heart Blood of their Enemies, they leave not a drop behind; and ſhould any chance to drivel down their Beards, they lick them clean again, make a clear Riddance and quick diſpatch. But if his <hi>Majeſty</hi> has any more ſuch <hi>Preſents</hi> to make them, they have reſerved a Corner of their Stomachs, and would be glad of another Draught next day.</p>
+               <p>'Twas but natural that the <hi>Fleſh</hi> of theſe <hi>Monſters</hi>
+                  <pb n="30" facs="tcp:51125:19"/>ſhould be Incorporate into the Bodies of theſe bloody Beaſts, whoſe very <hi>Souls</hi> were degenerated into their <hi>Nature</hi> before; neither needed there the C<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>remo<g ref="char:EOLhyphen"/>ny of Proceſs and Tryal, where God himſelf had Sate as Judge, and Condemned them by a Mi<g ref="char:EOLhyphen"/>racle.</p>
+               <p>
+                  <hi>So let all thine Enemies</hi> [and thy Peoples] <hi>Periſh, O Lord!</hi>
+               </p>
+               <p>'Tis the firſt Leſſon of <hi>Court-Policy,</hi> to ſecure it ſelf. Where a <hi>Conſpiracy</hi> had the Impudence to dare at the <hi>firſt Miniſter of State,</hi> 'twas time for <hi>Majeſty</hi> to Conſult its own Safety; thoſe who would adven<g ref="char:EOLhyphen"/>ture to its <hi>Boſom,</hi> will next tear out its very <hi>Heart</hi> if they can.</p>
+               <p>
+                  <hi>Darius</hi> is Decreeing again,
+<note place="margin">A Decree of Honour to God.</note> but not againſt Hea<g ref="char:EOLhyphen"/>ven: He is Sick of his <hi>Godſhip,</hi> the Robe of Divine Honour ſate too uneaſie upon him: Beſides, its ſpark<g ref="char:EOLhyphen"/>ling Brightneſs ſtruck him Blind, that he could not ſee through the Treacheries of Deſigning Men; He re<g ref="char:EOLhyphen"/>ſolves therefore to reſign it up to him that had a better Title to it than he. ('Twas Happineſs enough for himſelf to enjoy his <hi>Daniel</hi> below.) And now all Nations, People and Languages have free Liberty of Conſcience to own the God of Heaven: They ſhould not need fear to Pray to that God that had been ſo kind to him to ſpare his <hi>Daniels</hi> Life: Yea, (upon their Allegiance) he Commands them to fear before him; <hi>He is a God working Wonders,</hi> they might chance need his Deliverance too. Thus <hi>Daniel</hi> ſtands a Figure of <hi>Chriſt,</hi> whoſe Impriſonment and Redemption (as Jeſus his Death and Reſurrection) is the means of Salvation to the World.</p>
+            </div>
+            <div type="application">
+               <pb n="31" facs="tcp:51125:19" rendition="simple:additions"/>
+               <head>APPLICATION.</head>
+               <p>NOW folding up <hi>Daniel's</hi> Robe, let us not be aſham'd to preſent him to you in his naked <hi>Veſt,</hi> and give you a ſhort Reviſe, (as it were in little) both in the Character of his Piety; The Cauſe of his Sufferings; The Quality of his Enemies; And the End of all.</p>
+               <p n="1">1. He was <hi>Heavens</hi> viſible Repreſentative upon Earth; a Beam of the <hi>Divine Nature;</hi> the Church in <hi>Epitome;</hi> a mighty Man of Prayer; One who would give Heaven no reſt, and therefore the better belov'd; One that kept up the Reputation of Piety, and its ſinking Intereſt in the World; One who was <hi>Valiant for God and Truth upon Earth;</hi> that valued his Soul and Salvation above all the concerns of Life; who ſpent much <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ime in his Cloſet, conferring with God and his He<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> notwithſtanding the Noiſe and Avo<g ref="char:EOLhyphen"/>cations of a perplexing World; One whoſe Eye was directly fix'd upon God, but an utter Enemy to all the Selfiſh, Hypocritical, Squint-ey'd Deſigns of Men; One in whoſe Thoughts God was alwayes upper<g ref="char:EOLhyphen"/>moſt, and Scorn'd to let his Maker ſtand by, while he <hi>Embrac'd</hi> an <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>:</hi> When but a Youth, he was even ſo Wonderfully Temperate, that he faſted him<g ref="char:EOLhyphen"/>ſelf into Beauty, and would rather have eaten nothing than have Swallowed down Sin. When rais'd to Degrees of Preferment and Honour, the Air of a Title did but blow him nearer to Heaven, and was as humble as <hi>Jonah</hi> when he Rode <hi>Leviathan</hi> towards <hi>Ninève.</hi> The Cringes of his Flatterers made him
+<pb n="32" facs="tcp:51125:20"/>Bow the more humbly to God: and no wonder, while he Harbours ſo lowly Apprehenſions of <hi>Honours</hi> va<g ref="char:EOLhyphen"/>nity and Nothingneſs. Is ſo far from <hi>Impaling</hi> him<g ref="char:EOLhyphen"/>ſelf within the Grandeurs of State, that he is <hi>Proud</hi> only of a Free Condeſcention, and Opens himſelf to univerſal Service: But when his Prince Commands him to Court, he is (there) the whole Cabal himſelf; and that mighty Empire ſtands ſteddy on the ſafe <hi>Baſis</hi> of his Councils, which made the Kingdom have an Ague all the time he was in the Den; and while he Improves his profound Parts for the <hi>King,</hi> has yet Policy enough to be wiſe for his <hi>Soul.</hi> In ſhort, an excellent Pattern and glorious Exemplar of all Piety and Policy to thoſe great Ones of his Station.</p>
+               <p n="2">2. Admire not then that he is ſent to the Priſon, and you find him among the Lions; is maliciouſly Conſpir'd againſt, as the Burden and Plague of the Generation he Liv'd in. He that will be ſo Impu<g ref="char:EOLhyphen"/>dent as to Court Heaven more <hi>heartily</hi> than others, (when Righteouſneſs and Goodneſs is out of Faſhi<g ref="char:EOLhyphen"/>on) ſhall not need Complain of too much <hi>Eaſe</hi> in the World. And this Great Man was reſolv'd to be Devout, on purpoſe to dare their Malice, thô ſure to be thruſt out of (not <hi>Commiſſion</hi> only, but) <hi>Life.</hi> Let them <hi>Plot</hi> their Hearts out, (as they did) his Reſolutions were <hi>Set</hi> for Heaven: He kept God in his Eye, whoſe Faith ſcattered his Carnal Fears as the Clouds flye before the Sun, or his Enemies be<g ref="char:EOLhyphen"/>fore the Lions; He knew all the Motions of the In<g ref="char:EOLhyphen"/>feriour World, to be guided by that Great Agent, whoſe very Faithful <hi>Servant</hi> he was. Beſides, the King was his Friend, whoſe Favour and Protection
+<pb n="33" facs="tcp:51125:20" rendition="simple:additions"/>he worthily Merited, does therefore heartily truſt to both, and is no Loſer by his <hi>Conſidence.</hi>
+               </p>
+               <p n="3">3. For his Enemies, who were they, but the Cur<g ref="char:EOLhyphen"/>ſed Enemies of God? <hi>The Heathen that knew him not, and the Families that Call not on his Name?</hi> Jer. 10.25. <hi>Men of the World, whoſe Portion was in this Life,</hi> and were <hi>without God,</hi> and <hi>without Hope</hi> for the next? Men that had no Proſpect beyond the Grave, and who Hated the poor Remains of Piety that ſtill ſur<g ref="char:EOLhyphen"/>vive the Fall, and upbraided all their Actions. Who becauſe themſelves never Kneel'd, (but to an Idol) Fret that another ſhould to the True God they knew not. No wonder then, their <hi>Conſults</hi> took no faſter <hi>Hold</hi> together, than the Extenterated Bowels of the <hi>Spider</hi> ſo weakly pinn'd to the Wall: God Swept them away with the eaſie Hand of his Pro<g ref="char:EOLhyphen"/>vidence, but afterwards twiſted them into a Cable that hales them into the Bowels of the Beaſts, where I am very willing to leave them. (Unleſs perhaps Na<g ref="char:EOLhyphen"/>ture having caſt them out at the back Door, they are <hi>become as Dung to the Earth.</hi>)</p>
+               <epigraph>
+                  <q>
+                     <p>
+                        <hi>O Daughter of</hi> Babylon, <hi>who art to be deſtroyed; hap<g ref="char:EOLhyphen"/>py ſhall he be that rewardeth thee, as thou haſt ſerved us.</hi>
+                     </p>
+                  </q>
+                  <bibl>Pſal. 137.8.</bibl>
+               </epigraph>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
